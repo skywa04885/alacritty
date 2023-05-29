@@ -1,0 +1,15 @@
+import:
+  - /home/luke/.config/alacritty/green.yml
+window:
+  opacity: 0.9
+font:
+  size: 9
+  offset:
+    x: 0
+  normal:
+    family: "FiraCode"
+    style: "Regular"
+  bold:
+    family: "FiraCode"
+    style: "Bold"
+

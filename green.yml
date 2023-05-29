@@ -42,7 +42,7 @@ colors:
     text: CellForeground
     background: '#112211'
   normal:
-    black: '#222222'
+    black: '#66ff66'
     red: '#ff0000'
     green: '#00ff00'
     yellow: '#ffff00'
@@ -51,7 +51,7 @@ colors:
     cyan: '#66ff66'
     white: '#ffffff'
   bright:
-    black: '#333333'
+    black: '#66ff66'
     red: '#ff0000'
     green: '#00ff00'
     yellow: '#ffff00'
